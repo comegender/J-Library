@@ -6,6 +6,7 @@
 请将您的电子书发送到邮箱3517999384@qq.com，支持pdf，word等格式，请在发送邮件时献上您的署名
 # 3.下载方式
 点击进入对应文件，预览没有问题后点击右上角的下载即可
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/c951d095-be82-46ac-a46e-3c481ca6570a" />
 # 4.书籍对应位置
 点击文件夹，在对应分类下可以找到
 # 免责声明
