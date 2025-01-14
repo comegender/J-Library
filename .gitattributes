@@ -8,3 +8,4 @@ comsol/COMSOL[[:space:]]CFD有限元素分析.pdf filter=lfs diff=lfs merge=lfs 
 comsol/comsol[[:space:]]工程实践与理论仿真—多物理场数值分析技术.pdf filter=lfs diff=lfs merge=lfs -text
 comsol/comsol[[:space:]]在岩土工程中的应用.pdf filter=lfs diff=lfs merge=lfs -text
 comsol/COMSOL_Multiphysic_FAQ.pdf filter=lfs diff=lfs merge=lfs -text
+Mathematics[[:space:]]Modeling/*.pdf filter=lfs diff=lfs merge=lfs -text
