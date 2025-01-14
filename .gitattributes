@@ -1,3 +1,4 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
 CS/Discrete[[:space:]]Mathematics[[:space:]]and[[:space:]]Its[[:space:]]Applications.pdf filter=lfs diff=lfs merge=lfs -text
 Algorithm/NOIP常用算法.pdf filter=lfs diff=lfs merge=lfs -text
+ES/电子电路全书课后习题答案合并.pdf filter=lfs diff=lfs merge=lfs -text
